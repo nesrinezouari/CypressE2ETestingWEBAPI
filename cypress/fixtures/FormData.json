@@ -1,0 +1,15 @@
+{
+  "FirstNameId": "#firstName",
+  "FirstNamevalue": "Alden",
+  "LastNameId": "#lastName",
+  "LastNamevalue": "Cantrell",
+  "UserEmailid": "#userEmail",
+  "UserEmailvalue": "test@test.com",
+  "UserAgeid": "#age",
+  "UserAgevalue": "30",
+  "UserSalaryid": "#salary",
+  "UserSalaryvalue": "12345",
+  "UserDepartementid": "#department",
+  "UserDepartementvalue": "QA"
+
+}
